@@ -1,0 +1,7 @@
+
+# ignore csv and excel data sets
+*.csv
+*.xlsx
+
+#ignore virtual environment
+/venv
