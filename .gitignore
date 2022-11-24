@@ -1,6 +1,9 @@
 
 # ignore csv and excel data sets
+*train.csv
 *test.csv
+*clean_data.csv
+
 *.xlsx
 
 #ignore virtual environment
